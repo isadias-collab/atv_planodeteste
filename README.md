@@ -91,7 +91,4 @@ Os casos CT-03, CT-05 e CT-06 passaram em ambas as execuções.
 
 **Resultado final:** 6 de 6 testes passando.
 
-## Tecnologias
 
-- JavaScript (Node.js, CommonJS)
-- [Jest](https://jestjs.io/) 30
